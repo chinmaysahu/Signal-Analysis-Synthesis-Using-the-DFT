@@ -1,6 +1,6 @@
 # Signal-Analysis-Synthesis-Using-the-DFT
 
-This paper presents a discrete Fourier transform (DFT) based
+This project presents a discrete Fourier transform (DFT) based
 audio compression technique.This involves a three-step process.
 First, the audio signal is transformed in terms of frequency
 components by using DFT. Next, the audio signal
