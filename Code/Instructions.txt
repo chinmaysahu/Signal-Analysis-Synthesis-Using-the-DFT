@@ -1,0 +1,3 @@
+- Please keep all the code in one folder or add all to the matlab path.
+- "Sliding_Rectangular_windowing_Code" and "Sliding_Triangular_Windowing_Code" are two main codes, which depend upon the "CalculateSNR_code".
+- Kindly run the main codes individually to see the expected results, which are in compliant with the results shown in the report.
